@@ -28,8 +28,6 @@ The objective of this project was to implement a Single Page Real Estate **"Rent
 
 3. **Applying Filters:** Click on the filter options to apply your preferences. The app will automatically update the property listings to match the selected criteria.
 
-4. **View Property Details:** Click on individual property cards to view more details about a specific property.
-
 ## Technologies Used
 
 - React
