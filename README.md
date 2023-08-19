@@ -35,6 +35,12 @@ The objective of this project was to implement a Single Page Real Estate **"Rent
 - CSS
 - JavaScript
 
+## Images
+![Screenshot 2023-08-19 115253](https://github.com/Prakhar-Dixit/reunion-Assignment/assets/75660779/bd1df16b-9035-4725-818c-1dcbf70f94d0)
+
+![Screenshot 2023-08-19 115323](https://github.com/Prakhar-Dixit/reunion-Assignment/assets/75660779/09f52da1-aaa6-4838-abd8-b91729fcdfdd)
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
